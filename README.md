@@ -8,3 +8,8 @@ Tools:
 1) Supply Chain Dashboard data editing, formatting and staging for display in a Tableau file.
 2) Heatmap of a correlation matrix with arbitrary variables.
 3) Compound interest calculation for self-selected interest rates and years.
+
+<p align="center">
+  <img src="https://github.com/RobertHennings/Internship_DeutscheBundesbank/blob/main/Illustrations/BundesBankLogo.png" 
+       width="400"/>
+</p>
